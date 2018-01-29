@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="49.664298031" lon="-124.920120408">
+    <time>2018-01-28T18:43:11Z</time>
+    <name>001</name>
+    <sym>circle</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>614ba517-8a47-449e-987b-fb36511b54fd</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:auto_name>1</opencpn:auto_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.052687222" lon="-124.745096667">
+    <time>2018-01-28T21:43:39Z</time>
+    <name>Grace Hbr 156</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1609333b-1439-4fdb-afd7-6f0220cea971</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.126934722" lon="-124.703893333">
+    <time>2018-01-28T21:44:50Z</time>
+    <name>Tenedos Bay 158</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>32541682-3546-4a08-83db-5da5101ed9d3</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.141585556" lon="-124.674426389">
+    <time>2018-01-28T21:45:37Z</time>
+    <name>Prideaux 161</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5f942fe2-71d3-4e78-a15e-6e661bfb8065</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.160825833" lon="-124.765404167">
+    <time>2018-01-28T21:46:56Z</time>
+    <name>Roscoe Bay 163</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4353121c-2a36-4788-b7e4-925761a637d6</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.269058889" lon="-124.801088611">
+    <time>2018-01-28T21:47:37Z</time>
+    <name>Walsh Cove 155</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4cee38fe-7897-4ba0-858c-3b7c1a7f5a2e</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.350360000" lon="-125.042649444">
+    <time>2018-01-28T21:49:07Z</time>
+    <name>Frances Bay 164</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3285aff4-aa7e-469c-89df-f0a426a29542</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.198786111" lon="-124.848572222">
+    <time>2018-01-28T21:52:33Z</time>
+    <name>Teakerne Arm 167</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5e0b7d2c-4e49-4d82-bbbf-2bfc4e21a44d</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.134280556" lon="-124.924827778">
+    <time>2018-01-28T21:53:40Z</time>
+    <name>Squirrel Cove 168</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0f38fa50-9a62-4439-a4c4-3bc32e4380ad</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.098104167" lon="-124.988176944">
+    <time>2018-01-28T21:54:50Z</time>
+    <name>Gorge Hb 169</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>54cc1fa4-ce19-4fd3-8346-0b7504b1c4de</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.145333889" lon="-124.945850278">
+    <time>2018-01-28T21:55:41Z</time>
+    <name>Von Donop Inlt 170</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>69c16ba4-46f1-4e62-b8f0-b4fe0120e210</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.118851944" lon="-125.078184722">
+    <time>2018-01-28T21:56:44Z</time>
+    <name>Subtle 171</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>689a07fd-a5a2-4f87-8df3-bd090445323c</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.103861111" lon="-125.194343333">
+    <time>2018-01-28T21:57:31Z</time>
+    <name>Rebecca Spit 172</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5a050161-e905-44cd-9283-79073bca081f</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.168777778" lon="-125.171883889">
+    <time>2018-01-28T21:58:35Z</time>
+    <name>Crescent Channel 173</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2400ef24-b4ca-441a-b182-f3ee1a87676d</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <trk>
+    <extensions>
+      <opencpn:guid>70d17afd-fa69-4314-b114-385d5ea8ceb5</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2018-01-24T05:31:38Z</time>
+      </trkpt>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2018-01-24T05:31:40Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="50.030229722" lon="-125.241648333">
+    <time>2018-01-29T20:29:41Z</time>
+    <name>Campbell River</name>
+    <sym>xmred</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>413afeb6-45f4-48c9-8253-2341473db327</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.064612366" lon="-125.229502734">
+    <time>2018-01-29T20:31:27Z</time>
+    <name>April Point 190</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4d296427-f978-4532-8814-540f63267467</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.069441944" lon="-125.217272500">
+    <time>2018-01-29T20:33:40Z</time>
+    <name>Gowlland 190</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>422bc0fd-edd2-4b86-a75f-04ad5aef2e4b</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.130909722" lon="-125.380210278">
+    <time>2018-01-29T20:36:09Z</time>
+    <name>Menzies (internet)</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>74538372-9d84-4ea6-8175-952450623e47</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.247211944" lon="-125.347295833">
+    <time>2018-01-29T20:37:07Z</time>
+    <name>Kanish Bay 192</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7df01329-20a1-4c09-b3fa-72c479081ea9</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.267318889" lon="-125.243029167">
+    <time>2018-01-29T20:37:50Z</time>
+    <name>Octopus Bay 194</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>478b2bb7-31e0-4b6c-8a84-d37469673b21</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.502991389" lon="-125.257175556">
+    <time>2018-01-29T20:38:59Z</time>
+    <name>Frederick Arm 195</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>343234e4-23eb-4e34-9ee7-76627b2ab32e</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.339981389" lon="-125.305701944">
+    <time>2018-01-29T20:40:30Z</time>
+    <name>Handfeild 197</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6e2349d0-60ff-447c-84fe-53224382f1ac</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.397302778" lon="-125.381563056">
+    <time>2018-01-29T20:41:56Z</time>
+    <name>Hemming Bay 198</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3a0eb3f3-e846-47ca-b009-33d351b9d75b</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+</gpx>

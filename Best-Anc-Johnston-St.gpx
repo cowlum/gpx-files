@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="50.445286667" lon="-125.497693889">
+    <time>2018-01-29T20:56:32Z</time>
+    <name>Codero 210</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>78dc2910-4594-4b6d-8f03-c8242a70d788</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.488358611" lon="-125.710965000">
+    <time>2018-01-29T20:58:11Z</time>
+    <name>Forward 212</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2ab4e6e0-1190-4cfb-8945-04dd41d75085</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.443290556" lon="-125.977026667">
+    <time>2018-01-29T20:59:52Z</time>
+    <name>York 213</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>52f02fe9-f3f7-4e15-a989-5293640c8f6e</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.493183333" lon="-126.088208056">
+    <time>2018-01-29T21:00:37Z</time>
+    <name>Port Neville 213</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>72ad21d9-154f-4bfd-9fc1-bc2a1870187f</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.566945556" lon="-126.271865278">
+    <time>2018-01-29T21:02:08Z</time>
+    <name>Port Harvey 215</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>52d91b6e-a040-4157-97e5-7cc4531b9e24</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.559180556" lon="-126.187411389">
+    <time>2018-01-29T21:02:46Z</time>
+    <name>Matilpa 215</name>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>749f5f7d-44e9-4b18-be56-a8146410f0b3</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+</gpx>

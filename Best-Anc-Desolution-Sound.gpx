@@ -8,7 +8,6 @@
     <extensions>
       <opencpn:guid>614ba517-8a47-449e-987b-fb36511b54fd</opencpn:guid>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:auto_name>1</opencpn:auto_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
     </extensions>
@@ -44,7 +43,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>5f942fe2-71d3-4e78-a15e-6e661bfb8065</opencpn:guid>
-      <opencpn:viz_name>0</opencpn:viz_name>
+       <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -80,7 +79,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>3285aff4-aa7e-469c-89df-f0a426a29542</opencpn:guid>
-      <opencpn:viz_name>0</opencpn:viz_name>
+        <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -103,8 +102,8 @@
     <sym>xmgreen</sym>
     <type>WPT</type>
     <extensions>
+       <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:guid>0f38fa50-9a62-4439-a4c4-3bc32e4380ad</opencpn:guid>
-      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -112,13 +111,13 @@
   <wpt lat="50.098104167" lon="-124.988176944">
     <time>2018-01-28T21:54:50Z</time>
     <name>Gorge Hb 169</name>
-    <sym>xmgreen</sym>
+    <sym>xmred</sym>
     <type>WPT</type>
     <extensions>
       <opencpn:guid>54cc1fa4-ce19-4fd3-8346-0b7504b1c4de</opencpn:guid>
       <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
-      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
     </extensions>
   </wpt>
   <wpt lat="50.145333889" lon="-124.945850278">
@@ -128,7 +127,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>69c16ba4-46f1-4e62-b8f0-b4fe0120e210</opencpn:guid>
-      <opencpn:viz_name>0</opencpn:viz_name>
+       <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -164,23 +163,21 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>2400ef24-b4ca-441a-b182-f3ee1a87676d</opencpn:guid>
-      <opencpn:viz_name>0</opencpn:viz_name>
+        <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
   </wpt>
-  <trk>
+  <wpt lat="50.124007778" lon="-124.841891111">
+    <time>2018-01-29T08:31:38Z</time>
+    <name>Refuge Cove (internet)</name>
+    <sym>xmred</sym>
+    <type>WPT</type>
     <extensions>
-      <opencpn:guid>70d17afd-fa69-4314-b114-385d5ea8ceb5</opencpn:guid>
-      <opencpn:viz>1</opencpn:viz>
+      <opencpn:guid>264e6c9d-ab9d-4801-9bc2-25f32a9035b4</opencpn:guid>
+        <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
     </extensions>
-    <trkseg>
-      <trkpt lat="33.358000000" lon="-79.282000000">
-        <time>2018-01-24T05:31:38Z</time>
-      </trkpt>
-      <trkpt lat="33.358000000" lon="-79.282000000">
-        <time>2018-01-24T05:31:40Z</time>
-      </trkpt>
-    </trkseg>
-  </trk>
+  </wpt>
 </gpx>

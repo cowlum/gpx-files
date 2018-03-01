@@ -7,7 +7,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>1668b701-3d97-4dc1-bc28-37ec5fda2369</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -19,7 +19,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>5c1b3187-02bf-4bd9-a1da-d5555a992d67</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -31,7 +31,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>777bdd5c-c0ac-4f4e-9276-43fe397af095</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -43,7 +43,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>40586079-2566-429b-8273-9a5e5c7e3f54</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -55,7 +55,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>03be4a45-1935-4031-b456-4df2585663e3</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -67,7 +67,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>3f9ec884-85de-4061-b788-2c3b6c6eeea6</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -79,7 +79,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>31ae27db-0190-4e10-92c1-9d5e1299259f</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -91,7 +91,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>1c32cdf2-e15c-4828-b807-cac31dfb1559</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -103,7 +103,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>3d1bc001-6521-44f2-817e-75235b010b8c</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -115,7 +115,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>6a915e54-c316-46ae-9449-d70f45ea20e5</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -127,7 +127,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>68c90418-034b-44b2-b505-f2c143a1312c</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -139,7 +139,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>372f9bde-f9a4-45b9-9ef8-5e290ad0655c</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -151,7 +151,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>448748fe-030d-4c4c-8aec-3b8c01eb7c69</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -163,7 +163,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>72b75d81-1f58-4fd5-92ec-50005986a36b</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -175,7 +175,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>0c45861f-5a5a-4b43-a6f5-1fd70f3d9619</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -187,7 +187,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>7c5c66b5-0c9a-4308-a706-78c122c5d097</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
     </extensions>
@@ -199,7 +199,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>7fc3daf2-d6ea-4b2c-88d9-a778097425f3</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
     </extensions>
@@ -211,7 +211,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>6342c4a8-e305-46bf-ab02-86947f62f7ba</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -223,7 +223,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>777f2e49-d693-41d3-8831-8d1736db21ce</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -235,7 +235,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>13407c9e-acee-4c31-9fb9-9f394328e5e9</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -247,7 +247,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>5fe35dd8-17fb-4bdd-bfee-270a23f25cbe</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -259,7 +259,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>646ee918-ce82-4acd-8fb1-718c1dabcfed</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -271,7 +271,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>59f2d4be-f820-4a1d-a2ce-ebf05536b771</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -283,7 +283,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>7fd192b1-7908-4824-a626-a45422aef2a6</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -295,7 +295,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>6fbf849d-438e-4baf-9f5b-978d2f4a1b43</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -307,7 +307,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>2537f47d-be96-4678-938d-014651588b58</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -319,7 +319,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>1f50e1d4-72d2-4e08-b26b-18264ab5b99b</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -331,7 +331,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>1cd3b958-0417-4fd9-b97d-57fc2fb75b5b</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>
@@ -343,7 +343,7 @@
     <type>WPT</type>
     <extensions>
       <opencpn:guid>518b0f7c-fc51-44cc-8240-707c10ed7693</opencpn:guid>
-      <opencpn:viz_name>1</opencpn:viz_name>
+      <opencpn:viz_name>0</opencpn:viz_name>
       <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
       <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
     </extensions>

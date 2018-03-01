@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="50.414156111" lon="-125.501648056">
+    <time>2018-01-29T22:44:08Z</time>
+    <name>Blind Channel Marina </name>
+    <desc>http://www.blindchannel.com/marina
+VHF Channel 66A
+1-888-329-0475</desc>
+    <sym>xmred</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0bcdce9f-200e-4e56-a8c1-9da038cf3076</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.566770833" lon="-126.271836111">
+    <time>2018-01-29T22:48:24Z</time>
+    <name>Port Harvey Marina</name>
+    <desc>George &amp; Gail Cambridge
+250-902-9003 or 780-524-6520
+Channel 66A
+portharveymarine@gmail.com
+www.portharvey.blogspot.com
+
+</desc>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>23000828-3c20-4986-9431-4c621bfa51c2</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.407414722" lon="-125.184353611">
+    <time>2018-01-29T22:51:47Z</time>
+    <name>Dent Island</name>
+    <desc>Website:  www.dentisland.com
+Email:  info@dentisland.com
+
+Mailing address: Dent Island Lodge;
+P.O. Box 8, Stuart Island 
+British Columbia V0P 1V0
+
+Telephone: 250-203-2553
+Fax: 250-203-1041
+
+VHF 66A</desc>
+    <sym>xmgreen</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7e6e4573-d466-43f0-8fbc-e31a7a1a66e3</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#00FF00" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.030700833" lon="-125.242080278">
+    <time>2018-01-29T22:55:39Z</time>
+    <name>Campbell River</name>
+    <desc>Discovery Harbour Fuel Sales
+
+1 250 287 3456
+VHF Channel 66A
+
+
+Discovery Harbour Marina
+
+Ocean Pacific Marine Supply
+</desc>
+    <sym>xmred</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>557078c1-1640-48bd-b72e-88e655dd7df7</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+  <wpt lat="49.864005556" lon="-124.556923056">
+    <time>2018-01-29T23:13:29Z</time>
+    <name>Powell RIver</name>
+    <desc>
+    website: www.discoverpowellriver.com
+    monitor VHF Channel 68 (possibly 66A)
+    open all year
+    guest moorage available, 15 &amp; limited 30 amp power, washrooms, showers, laundry, garbage drop
+
+Westview Fuels Fuel Dock: (604) 485-2867 Eve: (604) 485-4641
+
+    monitor VHF Channel 66A
+    at the entrance to the south section of Westview Marina
+    gas &amp; diesel, lubricants, &amp; kerosene
+    washrooms, supplies, &amp; ice
+
+</desc>
+    <sym>xmred</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>02f5ff76-4d54-4d9f-b080-7a6a29edeff1</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.162015556" lon="-125.372819444">
+    <time>2018-01-29T23:21:53Z</time>
+    <name>Browns Bay Marina</name>
+    <desc>
+brownsbayresort.com
+(250) 286-3135
+
+Toll Free: 800-620-6739
+For Marina: 250-286-3135
+
+
+VHF 66A
+Fuel Dock</desc>
+    <sym>xmred</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3115bd8a-720b-4073-a008-7679285b58d4</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+  <wpt lat="49.977338333" lon="-124.761876667">
+    <time>2018-01-29T23:25:25Z</time>
+    <name>Lund</name>
+    <desc>Lund Harbour Authority Public Wharf: (604) 483-4711
+
+    Harbour Master - there early morning &amp; late afternoon
+    monitor VHF Channel 66A
+    open all year
+    670' breakwater-protected dock space with 20 amp power, showers and washrooms
+    no garbage disposal
+    northern float reserved for pleasure craft - rafting required
+    overnight moorage charged
+    2 floating concrete breakwater floats (no power or water) protect the inner docks - have to dinghy ashore
+</desc>
+    <sym>xmred</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>13311249-f9a9-41ec-b8e6-d0164008249f</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+  <wpt lat="49.990865672" lon="-124.708952375">
+    <time>2018-01-29T23:28:38Z</time>
+    <name>Okeover Inlet</name>
+    <sym>xmblue</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2421d991-eef4-4a92-9b1f-9ecc0abfbdb7</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#0000FF" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.103811944" lon="-125.211304167">
+    <time>2018-01-29T23:39:54Z</time>
+    <name>Hariot Bay </name>
+    <sym>xmred</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>095ec057-1cd0-43b2-996a-e152049d3e44</opencpn:guid>
+      <opencpn:viz_name>0</opencpn:viz_name>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="true" number="1" step="1" units="0" colour="#FF0000" />
+    </extensions>
+  </wpt>
+</gpx>
